@@ -95,4 +95,4 @@ export const imageOpenAITool = tool({
   },
 })
 
-export type IMag = UIToolInvocation<typeof imageOpenAITool>
+export type ImageToolType = UIToolInvocation<typeof imageOpenAITool>

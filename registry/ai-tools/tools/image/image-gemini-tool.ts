@@ -97,6 +97,4 @@ export const imageGatewayGeminiTool = tool({
   },
 })
 
-export type ImageGatewayGeminiToolType = UIToolInvocation<
-  typeof imageGatewayGeminiTool
->
+export type ImageToolType = UIToolInvocation<typeof imageGatewayGeminiTool>

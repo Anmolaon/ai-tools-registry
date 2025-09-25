@@ -95,4 +95,4 @@ export const imageFalTool = tool({
   },
 })
 
-export type ImageFalToolType = UIToolInvocation<typeof imageFalTool>
+export type ImageToolType = UIToolInvocation<typeof imageFalTool>

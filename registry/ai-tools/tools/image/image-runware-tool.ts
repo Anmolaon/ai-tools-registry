@@ -104,4 +104,4 @@ const Flux = {
   Flux11ProUltra: "bfl:2@2",
 } as const
 
-export type ImageRunwareToolType = UIToolInvocation<typeof imageRunwareTool>
+export type ImageToolType = UIToolInvocation<typeof imageRunwareTool>
